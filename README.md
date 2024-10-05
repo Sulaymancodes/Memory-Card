@@ -48,8 +48,8 @@ npm start
 
 ## 🛠️ Built With
 
-React - A JavaScript library for building user interfaces
-Tailwind CSS - A utility-first CSS framework
+- React - A JavaScript library for building user interfaces
+- Tailwind CSS - A utility-first CSS framework
 
 ## 📁 Project Structure
 
@@ -57,7 +57,7 @@ Tailwind CSS - A utility-first CSS framework
 - src/components/Navbar.js: Component for the navigation bar (score display)
 - src/components/Card.js: Component for individual emoji cards
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - Add difficulty levels (more emojis)
 - Implement animations for correct/incorrect guesses
